@@ -20,3 +20,5 @@ If you want to learn more about creating good readme files then refer the follow
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
 ________________________________________
 Update from feature branch -1.0
+________________________________________
+Update from feature-2 branch -1.1
